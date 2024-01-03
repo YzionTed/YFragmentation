@@ -2,7 +2,6 @@ apply plugin: 'com.android.library'
 
 group = 'com.github.YzionTed'
 archivesBaseName = 'fragmentation_swipeback'
-version = '1.0.0'
 
 android {
     compileSdkVersion 30
